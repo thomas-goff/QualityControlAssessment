@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ASP.NET temporary compilation output (aspnet_compiler, IIS Express)
+_program files_git/
+_[Pp]rogram [Ff]iles*/
+Temporary ASP.NET Files/
