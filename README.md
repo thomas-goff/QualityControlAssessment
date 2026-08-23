@@ -68,3 +68,11 @@ If you would rather create the database by hand, run the two scripts in `Databas
 Important: the scripts do not create the stored procedures. The application calls seven procedures (`GetAllMeasurements`, `GetCalculatedMeasurements`, `GetAllProductionLines`, `InsertMeasurement`, `UpdateMeasurement`, `DeleteMeasurement`, and `GetUsersByEmail`), and none of them are in these scripts. A scripts-only database will not run the app. Use the `.bak` for a working setup, or script the procedures separately.
 
 Both scripts are one-shot. They do not drop or clear anything, so run them against a fresh database only.
+
+<img width="1913" height="981" alt="image" src="https://github.com/user-attachments/assets/25da2288-8173-4af5-9b65-976714ff1f4d" />
+<img width="1889" height="978" alt="image" src="https://github.com/user-attachments/assets/fa451e97-c350-4a09-a214-71599175d8a1" />
+<img width="1909" height="982" alt="image" src="https://github.com/user-attachments/assets/b0e51899-3371-4b0f-af36-19c73101bb82" />
+<img width="1910" height="979" alt="image" src="https://github.com/user-attachments/assets/9d771fac-5865-4045-8d13-b1a8c09e8228" />
+
+
+
